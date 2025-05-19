@@ -4,7 +4,7 @@ internal class VrtnaSuprava : Budova
 {
     private Surovina _taznaSurovina;
     private const int TrvanieTazenia = 4;
-    public VrtnaSuprava(int riadok, int stlpec, Surovina surovina) : base(riadok, stlpec, "Vŕtna Súprava")
+    public VrtnaSuprava(int riadok, int stlpec, Surovina surovina) : base(riadok, stlpec, "Vrtná súprava")
     {
         if (surovina == Surovina.ZELEZNA_RUDA || surovina == Surovina.MEDENA_RUDA)
             _taznaSurovina = surovina;
