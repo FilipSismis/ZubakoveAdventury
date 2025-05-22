@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZubakoveAdventury", "ZubakoveAdventury\ZubakoveAdventury.csproj", "{5C01FBEB-82BC-4C3F-B73B-954136E1C41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZubakoveAdventury2", "ZubakoveAdventury2\ZubakoveAdventury2.csproj", "{77001B4D-10E6-4528-892D-5BFD2F374719}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5C01FBEB-82BC-4C3F-B73B-954136E1C41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C01FBEB-82BC-4C3F-B73B-954136E1C41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C01FBEB-82BC-4C3F-B73B-954136E1C41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77001B4D-10E6-4528-892D-5BFD2F374719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77001B4D-10E6-4528-892D-5BFD2F374719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77001B4D-10E6-4528-892D-5BFD2F374719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77001B4D-10E6-4528-892D-5BFD2F374719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
